@@ -9,7 +9,7 @@ export default {
 	name: "header",
 	data() {
 		return {
-			titre: "La ToDoList",
+			titre: "Ne surtout pas oublier",
 		};
 	},
 };
